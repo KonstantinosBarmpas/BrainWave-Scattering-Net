@@ -1,6 +1,6 @@
 # **BrainWave-Scattering Net: A Lightweight Network for EEG-based Motor Imagery Recognition**
 
-##Journal of Neural Engineering (JNE)
+## Journal of Neural Engineering (JNE)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
